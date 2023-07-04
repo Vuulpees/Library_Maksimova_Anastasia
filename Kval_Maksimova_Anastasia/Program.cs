@@ -13,7 +13,7 @@ namespace Kval_Maksimova_Anastasia
         {
             Team team = new Team("Команда ", "ул Красная Пресня\n");
             Player player1 = new Player("Иванов Перт Игоревич ", "Вратарь\n");
-            Console.WriteLine("--------------------------------");
+            Console.WriteLine("-------------------------------");
 
             Player player2 = new Player("Смолов Иван Иванович", "Нападающий\n");
            
@@ -28,7 +28,7 @@ namespace Kval_Maksimova_Anastasia
 
 
             }
-            Console.WriteLine("--------------------------------");
+            Console.WriteLine("-------------------------------");
             Console.ReadKey();
         }
 }   }   
